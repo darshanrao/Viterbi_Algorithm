@@ -22,7 +22,11 @@ The assignment explores the applications of Temporal Reasoning in Artificial Int
    ```bash
    git clone https://github.com/darshanrao/Viterbi_Algorithm.git
 
+## Run the Python script:
 
+   ```bash
+   python viterbi_algo.py
+   ```
 # Input Files
 The `data/` directory contains input files for both scenarios:
 

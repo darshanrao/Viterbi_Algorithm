@@ -9,11 +9,11 @@ The code is part of a programming assignment for the CSCI-561 course - Foundatio
 
 The assignment explores the applications of Temporal Reasoning in Artificial Intelligence. It involves implementing the Viterbi algorithm on two different scenarios: the "Little Prince" environment and a simplified speech recognition environment.
 
-<p align="center"><img src="LittlePrince.jpeg" alt="littleprince" width="500" /></p>
+<p align="center"><img src="LittlePrince.jpeg" alt="littleprince" width="800" /></p>
 
-<p align="center"><img src="Viterbi.jpeg" alt="viterbi" width="500" /></p>
+<p align="center"><img src="Viterbi.jpeg" alt="viterbi" width="800" /></p>
 
-<p align="center"><img src="SpeechRecognition.jpeg" alt="speech" width="500" /></p>
+<p align="center"><img src="SpeechRecognition.jpeg" alt="speech" width="800" /></p>
 
 ## How to Run the Code
 

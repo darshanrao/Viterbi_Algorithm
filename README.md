@@ -2,20 +2,25 @@
 
 ## Overview
 
-This repository contains the implementation of the Viterbi algorithm applied to temporal reasoning. The code is part of a programming assignment for the CSCI-561 course - Foundations of Artificial Intelligence.
+This repository contains the implementation of the Viterbi algorithm applied to temporal reasoning.
+The code is part of a programming assignment for the CSCI-561 course - Foundations of Artificial Intelligence.
 
 ## Problem Statement
 
 The assignment explores the applications of Temporal Reasoning in Artificial Intelligence. It involves implementing the Viterbi algorithm on two different scenarios: the "Little Prince" environment and a simplified speech recognition environment.
+
+<p align="center"><img src="LittlePrince.jpeg" alt="littleprince" width="500" /></p>
+
+<p align="center"><img src="Viterbi.jpeg" alt="viterbi" width="500" /></p>
+
+<p align="center"><img src="SpeechRecognition.jpeg" alt="speech" width="500" /></p>
 
 ## How to Run the Code
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/temporal-reasoning-viterbi.git
-   cd temporal-reasoning-viterbi
-
+   git clone https://github.com/darshanrao/Viterbi_Algorithm.git
 
 
 # Input Files
@@ -31,9 +36,5 @@ The output will be generated in the `results.txt` file:
 
 - `states.txt`: Predicted state sequence based on the Viterbi algorithm.
 
-# Assignment Details
-- **Course:** CSCI-561 - Foundations of Artificial Intelligence
-- **Assignment:** Homework 3 - Temporal Reasoning
-- **Due Date:** Monday, November 20th, 2023, 23:59:59 PST
 
-For more details about the assignment, refer to the [homework PDF](path/to/homework.pdf) provided in the repository.
+For more details about the assignment, refer to the [homework PDF](https://github.com/darshanrao/Viterbi_Algorithm/blob/main/HW3v0_5%20(1).pdf) provided in the repository.
